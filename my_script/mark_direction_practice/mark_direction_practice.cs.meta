@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9c33d98a68af2422fbde42aa2ecad608
+timeCreated: 1507210887
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - balloon_base: {fileID: 1452434949384796, guid: ee6d9da0cb9ed499f8d61c50b51bc222,
+      type: 2}
+  - FPScontroller: {fileID: 100000, guid: 734b683c3522e4e83a887e5316b1c7d2, type: 2}
+  - wooden_fence: {fileID: 195778, guid: 98c082e1e4c2d60408233432fca31837, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

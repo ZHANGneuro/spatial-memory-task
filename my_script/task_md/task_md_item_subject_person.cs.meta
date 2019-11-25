@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 34969c40bf915654d8036cf4ff4d9cbb
+timeCreated: 1507186970
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - cartoon_person_1: {fileID: 100176, guid: 8978bb06c3ea0489b88341061e78a7d5, type: 3}
+  - cartoon_person_2: {fileID: 100000, guid: 0a894905d432142a3ba8d384afdde4e1, type: 3}
+  - cartoon_person_3: {fileID: 100006, guid: af13971269c8d4b1c82105e9bd515a9a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
