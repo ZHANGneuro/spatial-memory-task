@@ -5,8 +5,8 @@ The Gif image was a modified version in timing and stimulus duration for perform
 
 Due to the limited size of Github for uploading, I will upload the full assets soon, while the current version included the scripts (under the folder 'task fmri') and stimuli material (characters), those characters were downloaded from https://www.mixamo.com 
 
-For details regarding the task, refer to the mansucript on preprint:
-https://www.biorxiv.org/content/10.1101/680199v3
+For details regarding the task, refer to the paper in this link:
+https://doi.org/10.1093/cercor/bhaa117
 
     
 ![alt-text](https://github.com/ZHANGneuro/spatial-memory-task/blob/master/video_example.gif)
